@@ -1,0 +1,14 @@
+D:\Visual Studio Projects\CodeWars\Tribonacci Sequence\Tribonacci Sequence\bin\Debug\net7.0\Tribonacci Sequence.exe
+D:\Visual Studio Projects\CodeWars\Tribonacci Sequence\Tribonacci Sequence\bin\Debug\net7.0\Tribonacci Sequence.deps.json
+D:\Visual Studio Projects\CodeWars\Tribonacci Sequence\Tribonacci Sequence\bin\Debug\net7.0\Tribonacci Sequence.runtimeconfig.json
+D:\Visual Studio Projects\CodeWars\Tribonacci Sequence\Tribonacci Sequence\bin\Debug\net7.0\Tribonacci Sequence.dll
+D:\Visual Studio Projects\CodeWars\Tribonacci Sequence\Tribonacci Sequence\bin\Debug\net7.0\Tribonacci Sequence.pdb
+D:\Visual Studio Projects\CodeWars\Tribonacci Sequence\Tribonacci Sequence\obj\Debug\net7.0\Tribonacci Sequence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Projects\CodeWars\Tribonacci Sequence\Tribonacci Sequence\obj\Debug\net7.0\Tribonacci Sequence.AssemblyInfoInputs.cache
+D:\Visual Studio Projects\CodeWars\Tribonacci Sequence\Tribonacci Sequence\obj\Debug\net7.0\Tribonacci Sequence.AssemblyInfo.cs
+D:\Visual Studio Projects\CodeWars\Tribonacci Sequence\Tribonacci Sequence\obj\Debug\net7.0\Tribonacci Sequence.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\CodeWars\Tribonacci Sequence\Tribonacci Sequence\obj\Debug\net7.0\Tribonacci Sequence.dll
+D:\Visual Studio Projects\CodeWars\Tribonacci Sequence\Tribonacci Sequence\obj\Debug\net7.0\refint\Tribonacci Sequence.dll
+D:\Visual Studio Projects\CodeWars\Tribonacci Sequence\Tribonacci Sequence\obj\Debug\net7.0\Tribonacci Sequence.pdb
+D:\Visual Studio Projects\CodeWars\Tribonacci Sequence\Tribonacci Sequence\obj\Debug\net7.0\Tribonacci Sequence.genruntimeconfig.cache
+D:\Visual Studio Projects\CodeWars\Tribonacci Sequence\Tribonacci Sequence\obj\Debug\net7.0\ref\Tribonacci Sequence.dll
